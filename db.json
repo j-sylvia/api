@@ -1,0 +1,325 @@
+{
+  "items":
+  [
+      {
+        "id": 1,
+        "name": "CRISPY CHICKEN",
+        "rname": "KFC",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-01.png",
+        "somedata": "1175+ order placed from here recently",
+        "price": 350,
+        "rating": "3.8",
+        "overview": "Fried chicken breast, chilli sauce, tomatoes, pickles, coleslaw",
+        "category": "burgers"
+      },
+      {
+        "id": 2,
+        "name": "ULTIMATE BACON",
+        "rname": "Jugaadi Adda",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-02.png",
+        "somedata": "2525 + order placed from here recently",
+        "price": 140,
+        "rating": "3.9",
+        "overview": "House beef patty, cheddar cheese, bacon, onion, mustard",
+        "category": "burgers"
+      },
+      {
+        "id": 3,
+        "name": "SMOKEY HOUSE",
+        "rname": "Barbeque Nation",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-06.png",
+        "somedata": "650 + order placed from here recently",
+        "price": 170,
+        "rating": "4.2",
+        "overview": "Beef patty, cheddar cheese, onion, lettuce, tomatoes, pickles",
+        "category": "burgers"
+      },
+      {
+        "id": 4,
+        "name": "TURKEY BURGER",
+        "rname": "Burgerman",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-05.png",
+        "somedata": "300 + order placed from here recently",
+        "price": 100,
+        "rating": "3.8",
+        "overview": "Turkey, cheddar cheese, onion, lettuce, tomatoes, pickles",
+        "category": "burgers"
+      },
+      {
+        "id": 5,
+        "name": "BLACK SHEEP",
+        "rname": "Burger House",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-03.png",
+        "somedata": "1050 + order placed from here recently",
+        "price": 210,
+        "rating": "4.0",
+        "overview": "American cheese, tomato relish, avocado, lettuce, red onion",
+        "category": "burgers"
+      },
+      {
+        "id": 6,
+        "name": "DOUBLE BURGER",
+        "rname": "Burger King",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-04.png",
+        "somedata": " 1100 + order placed from here recently",
+        "price": 100,
+        "rating": "3.8",
+        "overview": "2 beef patties, cheddar cheese, mustard, pickles, tomatoes",
+        "category": "burgers"
+      },
+      {
+        "id": 7,
+        "name": "CLASSIC BURGER",
+        "rname": "Hocco Eatery",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-07.png",
+        "somedata": "500 + order placed from here recently",
+        "price": 300,
+        "rating": "4.6",
+        "overview": "Beef, cheddar cheese, ketchup, mustard, pickles, onion",
+        "category": "burgers"
+      },
+      {
+        "id": 8,
+        "name": "VEGAN BURGER",
+        "rname": "Momoman",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-08.png",
+        "somedata": "500 + order placed from here recently",
+        "price": 100,
+        "rating": "3.2",
+        "overview": "Mushroom patty, vegan cheese, lettuce, tomatoes, avocado",
+        "category": "burgers"
+      },
+      {
+        "id": 9,
+        "name": "ONION RINGS",
+        "rname": "HL Frankie",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-01.png",
+        "somedata": "2525 + order placed from here recently",
+        "price": 100,
+        "rating": "4.8",
+        "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
+        "category": "sides"
+      },
+      {
+        "id": 10,
+        "name": "FRENCH FRIES",
+        "rname": "Pizza Corner",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-02.png",
+        "somedata": "525 + order placed from here recently",
+        "price": 240,
+        "rating": "3",
+        "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
+        "category": "sides"
+      },
+      {
+        "id": 11,
+        "name": "MOZARELLA STICKS",
+        "rname": "RFC",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-03.png",
+        "somedata": "525 + order placed from here recently",
+        "price": 160,
+        "rating": "3.9",
+        "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
+        "category": "sides"
+      },
+    {
+        "id": 12,
+        "name": "CRISPY CHICKEN",
+        "rname": "RFC",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-04.png",
+        "somedata": "525 + order placed from here recently",
+        "price": 180,
+        "rating": "4.9",
+        "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
+        "category": "sides"
+      },
+    {
+        "id": 13,
+        "name": "CHICKEN NUGGETS",
+        "rname": "RFC",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-05.png",
+        "somedata": "525 + order placed from here recently",
+        "price": 240,
+        "rating": "4.7",
+        "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
+        "category": "sides"
+      },
+    {
+        "id": 14,
+        "name": "CHICKEN FINGERS",
+        "rname": "KFC",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-06.png",
+        "somedata": "525 + order placed from here recently",
+        "price": 260,
+        "rating": "4.3",
+        "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
+        "category": "sides"
+      },
+    {
+        "id": 15,
+        "name": "GRILLED CHICKEN",
+        "rname": "KFC",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-07.png",
+        "somedata": "525 + order placed from here recently",
+        "price": 230,
+        "rating": "4.5",
+        "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
+        "category": "sides"
+      },
+    {
+        "id": 16,
+        "name": "BUFFALO WINGS",
+        "rname": "RFC",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-08.png",
+        "somedata": "525 + order placed from here recently",
+        "price": 190,
+        "rating": "4.1",
+        "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
+        "category": "sides"
+      },
+    {
+        "id": 17,
+        "name": "GREEK SALAD",
+        "rname": "Mubarak",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/salad-01.png",
+        "somedata": "525 + order placed from here recently",
+        "price": 170,
+        "rating": "4.4",
+        "overview": "Tomatoes, cucumbers, olives, feta cheese, red onion, olive oil",
+        "category": "salads"
+      },
+    {
+        "id": 18,
+        "name": "CHICKEN SALAD",
+        "rname": "Chicken Corner",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/salad-02.png",
+        "somedata": "525 + order placed from here recently",
+        "price": 120,
+        "rating": "4.2",
+        "overview": "Chicken breast, chilli sauce, lime juice, lettuce leaves, cucumber",
+        "category": "salads"
+      },
+    {
+        "id": 19,
+        "name": "SPINACH SALAD",
+        "rname": "City Mall",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/salad-03.png",
+        "somedata": "525 + order placed from here recently",
+        "price": 150,
+        "rating": "4.8",
+        "overview": "Halloumi cheese, spinach, oranges, mint leaves, olive oil",
+        "category": "salads"
+      },
+    {
+        "id": 20,
+        "name": "SEAFOOD SALAD",
+        "rname": "Mubarak",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/salad-04.png",
+        "somedata": "525 + order placed from here recently",
+        "price": 210,
+        "rating": "4.9",
+        "overview": "Shrimps, scallions, mayonnaise, lemon,chili sauce, salt",
+        "category": "salads"
+      },
+    {
+        "id": 21,
+        "name": "STRAWBERRY CAKEN",
+        "rname": "Cake Shop",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/dessert-01.png",
+        "somedata": "525 + order placed from here recently",
+        "price": 280,
+        "rating": "4.7",
+        "overview": "Strawberry, soft cheese, icing sugar, butter softened",
+        "category": "desserts"
+      },
+    {
+        "id": 22,
+        "name": "BELGIAN WAFFLE",
+        "rname": "Italian Cake Shop",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/dessert-02.png",
+        "somedata": "525 + order placed from here recently",
+        "price": 180,
+        "rating": "4.6",
+        "overview": "Berries, Greek yogurt, ice cream, chocolate sauce, peanut butter",
+        "category": "desserts"
+      },
+    {
+        "id": 23,
+        "name": "CHEESE CAKE",
+        "rname": "Cake World",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/dessert-03.png",
+        "somedata": "525 + order placed from here recently",
+        "price": 260,
+        "rating": "4.9",
+        "overview": "Strawberry, double cream, icing sugar, soft cheese, biscuits",
+        "category": "desserts"
+      },
+    {
+        "id": 24,
+        "name": "CHOCOLATE CAKE",
+        "rname": "Cake Shop",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/dessert-04.png",
+        "somedata": "525 + order placed from here recently",
+        "price": 250,
+        "rating": "4.9",
+        "overview": "Milk chocolate, icing sugar, cocoa powder, milk, vanilla extract",
+        "category": "desserts"
+      },
+    {
+        "id": 25,
+        "name": "PEPPERONI PIZZA",
+        "rname": "Pizza Hut",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-02.png",
+        "somedata": "525 + order placed from here recently",
+        "price": 180,
+        "rating": "4.3",
+        "overview": "Sliced pepperoni, parmesan cheese, mozzarella cheese, sauce",
+        "category": "pizzas"
+      },
+    {
+        "id": 26,
+        "name": "BUFFALO CHICKEN PIZZA",
+        "rname": "Burger Heist",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-04.png",
+        "somedata": "525 + order placed from here recently",
+        "price": 220,
+        "rating": "4.2",
+        "overview": "Buffalo sauce, mozzarella, red onion, chicken, ranch sauce",
+        "category": "pizzas"
+      },
+    {
+        "id": 27,
+        "name": "SPICY BBQ CHICKEN PIZZA",
+        "rname": "Pizza House",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-03.png",
+        "somedata": "525 + order placed from here recently",
+        "price": 210,
+        "rating": "4.9",
+        "overview": "Spicy sausage, pepperoni, red onion, tomatoes, basil",
+        "category": "pizzas"
+      },
+    {
+        "id": 28,
+        "name": "ULTIMATE MEAT PIZZA",
+        "rname": "Pizza Shop",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-06.png",
+        "somedata": "525 + order placed from here recently",
+        "price": 230,
+        "rating": "4.1",
+        "overview": "Sausage, seasoned ground beef, pepperoni, ham, salami, bacone",
+        "category": "pizzas"
+      },
+    {
+        "id": 29,
+        "name": "FIREHOUSE PIZZA",
+        "rname": "Pizza Hut",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-07.png",
+        "somedata": "525 + order placed from here recently",
+        "price": 200,
+        "rating": "4.9",
+        "overview": "Spicy sausage, pepperoni, red onion, tomatoes, basil",
+        "category": "pizzas"
+      },
+    
+    ]
+}
