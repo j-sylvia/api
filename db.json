@@ -1,5 +1,5 @@
 
-  
+  [
       {
         "id": 1,
         "name": "CRISPY CHICKEN",
@@ -352,4 +352,4 @@
         "overview": "Mozarella cheese, pizza sauce, semolina flour, artisan pizza dough",
         "category": "pizzas"
       }
-    
+  ]
