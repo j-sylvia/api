@@ -129,7 +129,7 @@
         "orders": "525 + order placed from here recently",
         "price": 180,
         "rating": "4.9",
-        "overview": "Chicken, potato starch, bread crumbs, vegetable oil, seasoning mix",
+        "overview": "Chicken, potato starch, bread crumbs, vegetable oil, seasoning",
         "category": "sides"
       },
     {
@@ -338,7 +338,7 @@
         "orders": "986 + order placed from here recently",
         "price": 200,
         "rating": "4.1",
-        "overview": "Paneer, sour cream, whole wheat flour, pizza sauce, cottage cheese",
+        "overview": "Paneer, sour cream, wheat flour, pizza sauce, cottage cheese",
         "category": "pizzas"
       },
     {
@@ -349,7 +349,7 @@
         "orders": "789 + order placed from here recently",
         "price": 230,
         "rating": "4.2",
-        "overview": "Mozarella cheese, pizza sauce, semolina flour, artisan pizza dough",
+        "overview": "Mozarella cheese, pizza sauce, semolina flour, pizza dough",
         "category": "pizzas"
       }
   ]
