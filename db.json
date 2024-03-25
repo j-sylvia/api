@@ -2,7 +2,7 @@
   [
       {
         "id": 1,
-        "name": "CRISPY CHICKEN",
+        "name": "Crispy Chicken",
         "rname": "KFC",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-01.png",
         "orders": "1175+ order placed from here recently",
@@ -13,7 +13,7 @@
       },
       {
         "id": 2,
-        "name": "ULTIMATE BACON",
+        "name": "Ultimate Bacon",
         "rname": "Jugaadi Adda",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-02.png",
         "orders": "2525 + order placed from here recently",
@@ -24,7 +24,7 @@
       },
       {
         "id": 3,
-        "name": "SMOKEY HOUSE",
+        "name": "Smokey House",
         "rname": "Barbeque Nation",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-06.png",
         "orders": "650 + order placed from here recently",
@@ -35,7 +35,7 @@
       },
       {
         "id": 4,
-        "name": "TURKEY BURGER",
+        "name": "Turkey Burger",
         "rname": "Burgerman",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-05.png",
         "orders": "300 + order placed from here recently",
@@ -46,7 +46,7 @@
       },
       {
         "id": 5,
-        "name": "BLACK SHEEP",
+        "name": "Black Sheep",
         "rname": "Burger House",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-03.png",
         "orders": "1050 + order placed from here recently",
@@ -57,7 +57,7 @@
       },
       {
         "id": 6,
-        "name": "DOUBLE BURGER",
+        "name": "Double Burger",
         "rname": "Burger King",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-04.png",
         "orders": " 1100 + order placed from here recently",
@@ -68,7 +68,7 @@
       },
       {
         "id": 7,
-        "name": "CLASSIC BURGER",
+        "name": "Classic Burger",
         "rname": "Hocco Eatery",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-07.png",
         "orders": "500 + order placed from here recently",
@@ -79,7 +79,7 @@
       },
       {
         "id": 8,
-        "name": "VEGAN BURGER",
+        "name": "Vegan Burger",
         "rname": "Momoman",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-08.png",
         "orders": "500 + order placed from here recently",
@@ -90,7 +90,7 @@
       },
       {
         "id": 9,
-        "name": "ONION RINGS",
+        "name": "Onion Rings",
         "rname": "HL Frankie",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-01.png",
         "orders": "2525 + order placed from here recently",
@@ -101,7 +101,7 @@
       },
       {
         "id": 10,
-        "name": "FRENCH FRIES",
+        "name": "French Fries",
         "rname": "Pizza Corner",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-02.png",
         "orders": "525 + order placed from here recently",
@@ -112,7 +112,7 @@
       },
       {
         "id": 11,
-        "name": "MOZARELLA STICKS",
+        "name": "Mozarella Sticks",
         "rname": "RFC",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-03.png",
         "orders": "525 + order placed from here recently",
@@ -123,7 +123,7 @@
       },
     {
         "id": 12,
-        "name": "CRISPY CHICKEN",
+        "name": "Crispy Chicken",
         "rname": "RFC",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-04.png",
         "orders": "525 + order placed from here recently",
@@ -134,7 +134,7 @@
       },
     {
         "id": 13,
-        "name": "CHICKEN NUGGETS",
+        "name": "Chicken Nuggets",
         "rname": "RFC",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-05.png",
         "orders": "525 + order placed from here recently",
@@ -145,7 +145,7 @@
       },
     {
         "id": 14,
-        "name": "CHICKEN FINGERS",
+        "name": "Chicken Fingers",
         "rname": "KFC",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-06.png",
         "orders": "525 + order placed from here recently",
@@ -156,7 +156,7 @@
       },
     {
         "id": 15,
-        "name": "GRILLED CHICKEN",
+        "name": "Grilled Chicken",
         "rname": "KFC",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-07.png",
         "orders": "525 + order placed from here recently",
@@ -167,7 +167,7 @@
       },
     {
         "id": 16,
-        "name": "BUFFALO WINGS",
+        "name": "Buffalo Wings",
         "rname": "RFC",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-08.png",
         "orders": "525 + order placed from here recently",
@@ -178,7 +178,7 @@
       },
     {
         "id": 17,
-        "name": "GREEK SALAD",
+        "name": "Greek Salad",
         "rname": "Mubarak",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/salad-01.png",
         "orders": "525 + order placed from here recently",
@@ -189,7 +189,7 @@
       },
     {
         "id": 18,
-        "name": "CHICKEN SALAD",
+        "name": "Chicken Salad",
         "rname": "Chicken Corner",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/salad-02.png",
         "orders": "525 + order placed from here recently",
@@ -200,7 +200,7 @@
       },
     {
         "id": 19,
-        "name": "SPINACH SALAD",
+        "name": "Spinach Salad",
         "rname": "City Mall",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/salad-03.png",
         "orders": "525 + order placed from here recently",
@@ -211,7 +211,7 @@
       },
     {
         "id": 20,
-        "name": "SEAFOOD SALAD",
+        "name": "Seafood Salad",
         "rname": "Mubarak",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/salad-04.png",
         "orders": "525 + order placed from here recently",
@@ -222,7 +222,7 @@
       },
     {
         "id": 21,
-        "name": "STRAWBERRY CAKEN",
+        "name": "Strawberry Caken",
         "rname": "Cake Shop",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/dessert-01.png",
         "orders": "525 + order placed from here recently",
@@ -233,7 +233,7 @@
       },
     {
         "id": 22,
-        "name": "BELGIAN WAFFLE",
+        "name": "Belgian Waffle",
         "rname": "Italian Cake Shop",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/dessert-02.png",
         "orders": "525 + order placed from here recently",
@@ -244,7 +244,7 @@
       },
     {
         "id": 23,
-        "name": "CHEESE CAKE",
+        "name": "Cheese Cake",
         "rname": "Cake World",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/dessert-03.png",
         "orders": "525 + order placed from here recently",
@@ -255,7 +255,7 @@
       },
     {
         "id": 24,
-        "name": "CHOCOLATE CAKE",
+        "name": "Chocolate Cake",
         "rname": "Cake Shop",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/dessert-04.png",
         "orders": "525 + order placed from here recently",
@@ -266,7 +266,7 @@
       },
     {
         "id": 25,
-        "name": "PEPPERONI PIZZA",
+        "name": "Pepperoni Pizza",
         "rname": "Pizza Hut",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-02.png",
         "orders": "525 + order placed from here recently",
@@ -277,7 +277,7 @@
       },
     {
         "id": 26,
-        "name": "BUFFALO CHICKEN PIZZA",
+        "name": "Buffalo Chicken Pizza",
         "rname": "Burger Heist",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-04.png",
         "orders": "525 + order placed from here recently",
@@ -288,7 +288,7 @@
       },
     {
         "id": 27,
-        "name": "SPICY BBQ CHICKEN PIZZA",
+        "name": "Spicy BBQ Chicken Pizza",
         "rname": "Pizza House",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-03.png",
         "orders": "525 + order placed from here recently",
@@ -299,7 +299,7 @@
       },
     {
         "id": 28,
-        "name": "ULTIMATE MEAT PIZZA",
+        "name": "Ultimate Meat Pizza",
         "rname": "Pizza Shop",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-06.png",
         "orders": "525 + order placed from here recently",
@@ -310,7 +310,7 @@
       },
     {
         "id": 29,
-        "name": "FIREHOUSE PIZZA",
+        "name": "Firehouse Pizza",
         "rname": "Pizza Hut",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-07.png",
         "orders": "525 + order placed from here recently",
@@ -321,7 +321,7 @@
       },
     {
         "id": 30,
-        "name": "GARDEN VEGGIE PIZZA",
+        "name": "Garden Veggie Pizza",
         "rname": "Burger King",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-05.png",
         "orders": "987 + order placed from here recently",
@@ -332,7 +332,7 @@
       },
     {
         "id": 31,
-        "name": "PANEER PIZZA",
+        "name": "Paneer Pizza",
         "rname": "Burger Heist",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-01.png",
         "orders": "986 + order placed from here recently",
@@ -343,7 +343,7 @@
       },
     {
         "id": 32,
-        "name": "CLASSIC CHEESE PIZZA",
+        "name": "Classic Cheese Pizza",
         "rname": "Swiss",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-08.png",
         "orders": "789 + order placed from here recently",
