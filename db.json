@@ -151,7 +151,7 @@
         "orders": "525 + order placed from here recently",
         "price": 260,
         "rating": "4.3",
-        "overview": "Chicken breast, eggs, avocado oil, flour",
+        "overview": "Chicken breast, eggs, avocado oil, flour, bread crumbs",
         "category": "sides"
       },
     {
@@ -288,7 +288,7 @@
       },
     {
         "id": 27,
-        "name": "Spicy BBQ Chicken Pizza",
+        "name": "Spicy Chicken Pizza",
         "rname": "Pizza House",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-03.png",
         "orders": "525 + order placed from here recently",
